@@ -50,7 +50,6 @@
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
                 android:fontFamily="@font/droid_sans_mono"
-                android:padding="0db"
                 android:text="Engineer"
                 android:textColor="#De122940"
                 android:textFontWeight="500"
@@ -75,7 +74,6 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="4dp"
                     android:fontFamily="@font/droid_sans_mono"
-                    android:padding="0db"
                     android:text="UK"
                     android:textColor="#99263238"
                     android:textSize="13dp" />
@@ -95,7 +93,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/droid_sans_mono"
-                    android:padding="0db"
                     android:text="(150 Reviews)"
                     android:textColor="#000000"
                     android:textSize="12dp" />
